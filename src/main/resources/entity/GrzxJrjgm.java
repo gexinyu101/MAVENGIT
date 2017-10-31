@@ -2,7 +2,7 @@ package com.prod.entity.sxzx;
 
 /**
  * @Author: gxy
- * @Date: Created by as on 2017/10/20.
+ * @Date: Created by as on 2017/10/31.
  */
 public class GrzxJrjgm {
     String grJrjgdm;
